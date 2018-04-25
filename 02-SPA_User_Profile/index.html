@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+  <title>Cloudentity – SPA User Profile Example</title>
+</head>
+<body>
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">
+    <img src="/assets/logo/logo.png" height="25" alt="">
+    <span style="margin-left: 10px;">Single Page App – User Info example</span>
+  </a>
+  <form class="form-inline">
+    <div id="unauthorized-nav" style="display: none;">
+      <button id="login-button" class="btn btn-outline-dark" type="button">Login</button>
+    </div>
+
+    <div id="authorized-nav" style="display: none;">
+      <button id="logout-button" class="btn btn-outline-dark" type="button">Logout</button>
+    </div>
+  </form>
+</nav>
+
+<div id="unauthorized-section" class="jumbotron" style="display: none;">
+  <h1 class="display-4">Hello!</h1>
+  <p class="lead">This is a simple example showing Cloudentity Web Auth usage with user profile info.</p>
+  <hr class="my-4">
+  <p>It seems that you are not authorized yet. Click "Login" button located in the navigation bar.</p>
+</div>
+
+<div id="authorized-section" class="jumbotron" style="display: none;">
+  <h1 class="display-4">Hello <span id="user_name"></span>!</h1>
+  <p class="lead">This is a simple example showing Cloudentity Web Auth usage with user profile info.</p>
+  <hr class="my-4">
+  <p>You are authorized!</p>
+  <p>Your email: <span id="user_email"></span></p>
+</div>
+
+<script src="node_modules/cloudentity-web-auth/dist/cloudentity-web-auth.js"></script>
+<script src="settings.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "name": "02-spa_user_profile",
+  "version": "1.0.0",
+  "description": "Simple example showing Cloudentity Web Auth library usage in Javascript single-page app with call to user-info endpoint",
+  "main": "app.js",
+  "scripts": {
+    "start": "serve -p 8000"
+  },
+  "author": "Cloudentity",
+  "license": "SEE LICENSE IN EULA.txt",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "cloudentity-web-auth": "^0.8.2"
+  },
+  "devDependencies": {
+    "serve": "6.5.1"
+  }
+}

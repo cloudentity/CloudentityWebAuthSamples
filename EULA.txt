@@ -1,0 +1,317 @@
+                        END USER LICENSE AGREEMENT 
+
+THIS END USER LICENSE AGREEMENT ("EULA") IS A
+LEGAL AGREEMENT BETWEEN SYNTEGRITY NETWORKS, INC., A VIRGINIA CORPORATION
+("SYNTEGRITY"), AND THE ENTITY ON WHOSE BEHALF THIS EULA IS ACCEPTED
+("LICENSEE"). SYNTEGRITY PROVIDES THE SOFTWARE SOLELY ON THE TERMS AND
+CONDITIONS SET FORTH IN THIS EULA. BY CLICKING THE "ACCEPT" BUTTON OR
+INSTALLING, COPYING, DOWNLOADING OR USING THE SOFTWARE, LICENSEE AGREES TO BE
+BOUND BY ALL TERMS AND CONDITIONS OF THIS EULA. 
+IF YOU DO NOT AGREE WITH THE
+TERMS OF THIS EULA, YOU MUST NOT INSTALL THE SOFTWARE OR
+DOCUMENTATION.
+
+                         Section 1 - Definitions
+
+1.1 "Licensee" has the meaning set forth in the preamble.
+
+1.2 "Documentation" means user manuals,
+    technical manuals and any other materials provided by SYNTEGRITY, in printed,
+    electronic, or other form, that describe the installation, operation, use, or
+    technical specifications of the Software. 
+
+1.3 "License Key" shall mean the
+    license file provided by SYNTEGRITY to the LICENSEE containing information
+    associating the Software with the named individual or company registrant, and a
+    set of software keys used to activate the Software.
+
+1.4 "Software" shall
+    mean the software programs for which LICENSEE is purchasing a license from
+    SYNTEGRITY under this EULA, including all new releases, corrections,
+    enhancements and updates to such software. 
+
+                       Section 2 - Grant of License
+
+Subject to the terms and conditions of this EULA and conditioned upon
+LICENSEE'S payment of the license fees, SYNTEGRITY grants LICENSEE a
+non-exclusive, non-transferable, non-sub-licensable, limited license during the
+term of this EULA to use the Software and Documentation solely for internal
+purposes in such configurations as specified in the applicable SYNTEGRITY quote
+or invoice. The LICENSEE may not distribute or resell the Software in any form,
+nor use the Software to construct any product to directly compete with the
+Software, unless specifically agreed in writing with SYNTEGRITY. The Software
+may include functionality that will render it non-operational upon expiration of
+the license. 
+
+                          Section 3 - Scope of Use
+
+3.1 Use of the Software shall be
+    limited to the internal needs of LICENSEE and LICENSEE shall not make the
+    Software available to third parties without SYNTEGRITY'S prior written consent.
+
+3.2 SYNTEGRITY does not provide any maintenance or support services under
+    this EULA. Maintenance and support services, if any, are provided under a
+    separate support agreement.
+
+3.3 Some or all of the Software may be remotely
+    hosted or accessible to LICENSEE through the Internet ("Hosted Software"). In
+    such case, SYNTEGRITY may suspend, terminate, withdraw, or discontinue all or
+    part of the Hosted Software or LICENSEE'S access to the Hosted Software upon
+    receipt of a subpoena or law-enforcement request, or when SYNTEGRITY believes,
+    in its sole discretion, that LICENSEE has breached any term of this EULA or been
+    involved in any fraudulent, misleading, or illegal activities. SYNTEGRITY may
+    modify the Hosted Software at any time with or without prior notice to LICENSEE.
+    SYNTEGRITY may perform scheduled or unscheduled repairs or maintenance, or
+    remotely patch or upgrade the Hosted Software installed on its and LICENSEE'S
+    system(s), which may temporarily degrade the quality of the Hosted Software or
+    result in a partial or complete outage of the Hosted Software. Updates, patches
+    or alerts may be delivered from servers that may be located outside of the U.S.
+    SYNTEGRITY provides no assurance that LICENSEE will receive advance notification
+    of such activities or that LICENSEE'S use of the Hosted Software will be
+    uninterrupted or error-free.
+
+                          Section 4 - Restrictions
+
+4.1 The Software is
+    made available solely in accordance with this EULA. Without limiting the
+    foregoing, any copying or redistribution of the Software is prohibited,
+    including any copying or reproduction for further reproduction, or
+    redistribution. Any unauthorized use, copying or distribution of the Software is
+    expressly prohibited by law, and may result in civil and criminal
+    penalties.
+
+4.2 LICENSEE shall not, directly or indirectly: (i) sublicense,
+    resell, rent, lease, distribute, market, commercialize or otherwise transfer
+    rights or usage to the Software or any modified version or derivative work of
+    the Software; (ii) remove or alter any copyright, trademark or proprietary
+    notice in the Software; (iii) use the Software for third-party training,
+    commercial time-sharing, service bureau or application services without the
+    express written permission of SYNTEGRITY; (iv) attempt, or permit anyone else
+    to, reverse engineer, decompile or modify any portion of the Software; (v)
+    modify or create any derivative works based on the Software; and (vi) publish or
+    make available to any third party any analysis of the results of operation of
+    the Software, including but not limited to performance benchmarking
+    results.
+
+4.3 Upon request, LICENSEE shall certify in writing to SYNTEGRITY
+    that all use of the Software is in compliance with the terms of this EULA.
+    LICENSEE hereby grants SYNTEGRITY, or an agent selected by SYNTEGRITY, the right
+    to perform, during normal business hours, a reasonable audit of LICENSEE'S
+    compliance with this EULA. LICENSEE agrees to cooperate and provide SYNTEGRITY
+    with all records reasonably related to its compliance with this EULA.
+
+                     Section 5 - Intellectual Property
+
+The Software and the Documentation are licensed,
+not sold. SYNTEGRITY owns and retains title to the Software and Documentation,
+including all intellectual property rights therein. LICENSEE acknowledges that
+all intellectual property rights in the Software and the goodwill associated
+therewith are vested in and belong to SYNTEGRITY. SYNTEGRITY reserves any and
+all rights that are not expressly granted to the LICENSEE hereunder. During the
+term of this EULA, LICENSEE grants to SYNTEGRITY a non-transferable,
+non-exclusive license to reproduce and display LICENSEE's logos, trademarks,
+trade names and similar identifying material so SYNTEGRITY may refer to LICENSEE
+as a user of the Software should SYNTEGRITY so desire, (e.g. website, press
+release, marketing materials).
+
+                 Section 6 - Warranty and Limited Liability
+
+6.1 SYNTEGRITY warrants that, for a period of sixty (60) days, from
+    the initial delivery of the Software to LICENSEE, the Software, if used by
+    LICENSEE in accordance with the Documentation, shall operate in material
+    conformity with the Documentation for such Software. 
+
+6.2 SYNTEGRITY does not
+    warrant that the Software will meet all of LICENSEE requirements or that the use
+    of the Software will be uninterrupted or error free. SYNTEGRITY's entire
+    liability, and LICENSEE'S exclusive remedy, under this limited software
+    warranty shall be for SYNTEGRITY: (i) to attempt to correct through reasonable
+    efforts, any reproducible material nonconformity discovered within the sixty
+    (60) day warranty period; or (ii) to replace the nonconforming Software with
+    Software which conforms to the foregoing warranty. 
+
+6.3 In the event
+    SYNTEGRITY is unable to cure the breach of warranty described in this Section 6,
+    after attempting the remedies described in 6.2(i) and 6.2(ii) above, LICENSEE'S
+    sole and exclusive remedy, and SYNTEGRITY'S sole obligation, shall be to stop
+    using the Software and SYNTEGRITY shall refund a portion of the license and
+    maintenance fees paid by LICENSEE to SYNTEGRITY for the Software. The refund of
+    maintenance fees shall be limited to the amount representing the period during
+    which the Software showed nonconformity. The above remedies are available only
+    if SYNTEGRITY is promptly notified in writing, within the warranty period, upon
+    discovery of the nonconformity by LICENSEE and SYNTEGRITY'S examination of the
+    Software discloses that such nonconformity exists, and that the Software has not
+    been (i) altered or modified other than by SYNTEGRITY; (ii) subjected to
+    negligence, or computer or electrical malfunctions; or (iii) used, adjusted, or
+    installed other than in accordance with the Documentation.
+
+6.4 THE EXPRESS
+    LIMITED WARRANTIES SET FORTH ABOVE ARE EXCLUSIVE AND IN LIEU OF ALL OTHER
+    WARRANTIES, EXPRESS, IMPLIED OR STATUTORY WITH RESPECT TO THE SOFTWARE, AND
+    SYNTEGRITY EXPRESSLY DISCLAIMS ANY IMPLIED WARRANTIES, INCLUDING WITHOUT
+    LIMITATION, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+    NONINFRINGEMENT, TITLE, SATISFACTORY QUALITY, ACCURACY, OR SYSTEM INTEGRATION,
+    OR (B) ARISING FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE IN
+    THE INDUSTRY. TO THE EXTENT AN IMPLIED WARRANTY OR CONDITION CANNOT BE
+    DISCLAIMED, SUCH WARRANTY OR CONDITION IS LIMITED IN DURATION TO THE APPLICABLE
+    EXPRESS WARRANTY PERIOD.
+
+6.5 NOTWITHSTANDING ANYTHING TO THE CONTRARY SET
+    FORTH IN THIS EULA, SYNTEGRITY'S TOTAL LIABILITY FOR ANY AND ALL CLAIMS ARISING
+    OUT OF OR IN CONNECTION WITH THIS EULA AND/OR THE SOFTWARE SHALL NOT EXCEED THE
+    TOTAL AMOUNT RECEIVED BY SYNTEGRITY FOR THE APPLICABLE SOFTWARE LICENSE DURING
+    THE TWELVE MONTH PERIOD IMMEDIATELY PRECEDING THE DATE ON WHICH THE RELEVANT
+    CLAIM AROSE.
+
+6.6 The Software may come bundled or otherwise be distributed
+    with open source or other third party software, which is subject to the terms
+    and conditions of the specific license under which it is distributed. OPEN
+    SOURCE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY, EXPRESS, IMPLIED, OR
+    OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTY OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. NOTWITHSTANDING ANYTHING
+    TO THE CONTRARY IN THIS EULA, AS IT RELATES TO ANY AND ALL CLAIMS ARISING OUT OF
+    OR IN CONNECTION WITH OPEN SOURCE SOFTWARE, SYNTEGRITY SHALL HAVE NO LIABILITY
+    FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL
+    DAMAGES, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+    STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+    OUT OF THE USE OF OPEN SOURCE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+    SUCH DAMAGES. 
+
+6.7 The Software is not designed or intended for high-risk
+    applications or use in hazardous environments requiring fail-safe performance,
+    such as in the operation of nuclear facilities, aircraft navigation or
+    communications systems, air traffic control, life support, weapons systems or in
+    any other device or system in which function or malfunction of the software
+    could result in death, personal injury or physical or environmental damage. Any
+    such use or application by LICENSEE is outside the scope of this license and
+    LICENSEE is not authorized to use the Software in any such application.
+
+
+                       Section 7 - Term and Termination
+
+7.1 This EULA and the licensed granted
+    hereunder shall remain in effect for the term set forth in the applicable
+    Syntegrity quote or invoice unless earlier terminated as set forth in this
+    Section 7.
+
+7.2 SYNTEGRITY may terminate this EULA immediately and without
+    prior notice of LICENSEE fails to timely pay for the licenses to the Software.
+    Should either party commit a material breach of its obligations hereunder (other
+    than payment of licensee fees, which is addressed in the immediately preceding
+    sentence), the other party may, at its option, terminate this EULA by written
+    notice to the party in breach. Such notice shall identify and describe the
+    breach upon which termination is based. The breaching party shall have thirty
+    (30) days from the effective delivery of the notice to cure such breach, which,
+    if affected, shall prevent termination by virtue of such breach. 
+
+7.3
+    SYNTEGRITY may terminate this EULA immediately and without prior notice if
+    LICENSEE: (i) is dissolved or liquidated or takes any corporate action for such
+    purpose; (ii) becomes insolvent or is generally unable to pay its debts as they
+    become due; (iii) becomes the subject of any voluntary or involuntary bankruptcy
+    proceeding under any domestic or foreign bankruptcy or insolvency law; (iv)
+    makes or seeks to make a general assignment for the benefit of its creditors; or
+    (v) applies for, or consents to, the appointment of a trustee, receiver or
+    custodian for a substantial part of its property.
+
+7.4 Upon termination of
+    this EULA, LICENSEE will either return to SYNTEGRITY or destroy all copies of
+    the Software, License Key and Documentation then in LICENSEE's possession.
+    LICENSEE shall, within thirty (30) days after the date of such termination,
+    furnish SYNTEGRITY with a certification of compliance.
+
+7.5 The parties
+    recognize and agree that their obligations under Sections 3, 4, 6, 7, 8, 9, 10,
+    11, 12, and 13 of this EULA, as well as obligations for payment, shall survive
+    the termination of this EULA, and/or the licenses granted hereunder. Except as
+    provided in Section 6.3, SYNTEGRITY shall have no obligation upon the
+    termination of this EULA to refund any portion of any license fee.
+
+                     Section 8 - Software Export Controls
+
+The Software is subject to the U.S. Export
+Administration Regulations and the regulations of other jurisdictions (e.g. the
+European Union). Diversion contrary to applicable law is prohibited. Without
+limiting the foregoing, LICENSEE agrees that: (i) LICENSEE is not acting on
+behalf of any person who is a citizen, national, or resident of, or who is
+controlled by the government of any country to which the United States, the
+European Union or other applicable government body has prohibited export
+transactions (e.g. Iran, North Korea, Sudan and Syria.); (ii) LICENSEE is not
+acting on behalf of, any person or entity listed on a relevant list of persons
+to whom export is prohibited (e.g. the U.S. Treasury Department list of
+Specially Designated Nationals and Blocked Persons, the U.S. Commerce Department
+Denied Persons List or Entity List); and (iii) LICENSEE will not use the
+Software for any purpose prohibited by applicable law.
+
+                           Section 9 - Usage Data
+
+LICENSEE agrees that SYNTEGRITY may process technical and related
+information about LICENSEE'S use of the Software, which may include license
+number, online/offline license activation, license expiration, internet protocol
+address, hardware identification, operating system, application software,
+peripheral hardware, and non-personally identifiable Software usage statistics
+to facilitate the provisioning of updates, support, invoicing or online
+services. To the extent that this information constitutes personal data,
+SYNTEGRITY shall be the controller of such personal data. To the extent that it
+acts as a controller, each party shall comply at all times with its obligations
+under applicable data protection legislation.
+
+                       Section 10 - Entire Agreement
+
+Unless LICENSEE has entered into another written agreement with
+respect to the Software that has been signed by LICENSEE and an authorized
+representative of SYNTEGRITY and that conflicts with the terms of this EULA,
+this EULA supersedes all prior written or oral agreements, warranties or
+representations with respect to use of the Software. No amendment or
+modification of this EULA or any provision or attachment of this EULA shall be
+effective unless it is in writing and signed by both parties.
+
+                    Section 11 - Governing Law and Forum
+
+The validity, construction and performance of this
+EULA shall be governed by the substantive laws of the Commonwealth of Virginia,
+U.S.A. (excluding conflicts of law principles). LICENSEE and SYNTEGRITY agree
+that any dispute arising out of this EULA shall be instituted in the United
+States District Court for the Eastern District of Virginia, Alexandria Division,
+or the courts of the Commonwealth of Virginia located in Fairfax County,
+Virginia, and each party irrevocably submits to the exclusive jurisdiction of
+such courts in any such suit, action or proceeding. If any legal action is
+undertaken to enforce the terms of this EULA, the prevailing party shall be
+entitled to reasonable attorney's fees and costs in addition to any other
+relief to which that party may be entitled. This EULA specifically excludes the
+United Nations Convention on Contracts for the International Sale of Goods and
+any legislation implementing such Convention, if otherwise applicable. The
+parties agree that the provisions of the Uniform Computer Information
+Transactions Act ("UCITA"), as it may have been or hereafter may be in effect
+in any jurisdiction, shall not apply to this EULA, and the parties waive any and
+all rights they may have under any laws(s) adopting UCITA in any
+form.
+
+                   Section 12 - U.S. Government End Users
+
+The Software licensed under
+this EULA is "commercial computer software" as that term is described in DFAR
+252.227-7014(a)(1). If acquired by or on behalf of a civilian agency, the U.S.
+Government acquires the Software and Documentation subject to the terms of this
+EULA as specified in 48 C.F.R. 12.212 of the Federal Acquisition Regulations
+("FAR") and its successors. If acquired by or on behalf of any agency within
+the Department of Defense ("DOD"), the U.S. Government acquires the Software
+and Documentation subject to the terms of this EULA as specified in 48 C.F.R.
+227.7202 of the DOD FAR Supplement and its successors. Contractor is SYNTEGRITY,
+Inc., 9500 Braddock Road, Fairfax, VA 22032.
+
+                    Section 13 - Assignment and Benefit
+
+Without the consent of the other party in writing, neither party may
+assign this EULA; provided, however, SYNTEGRITY may assign this EULA to another
+entity that acquires or has acquired substantially all of the stock or assets of
+SYNTEGRITY. This EULA shall be binding upon and shall inure to the benefit of
+LICENSEE and SYNTEGRITY and each party's successors, subject to the other
+provisions of this Section. This license is granted to LICENSEE only and as such
+does not permit LICENSEE to sell, lend, assign, lease or transfer in any other
+way any copy of the Software. Any transfer in violation of this provision is not
+permitted and may cause this EULA to be terminated with no refund of the
+licensing fee paid.
+
+                         *** END OF EULA ***
+
