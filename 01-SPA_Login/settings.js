@@ -1,4 +1,4 @@
 var CLOUDENTITY_SETTINGS = {
-  domain: 'your-clundentity-domain',
+  domain: 'your-cloudentity-domain',
   clientId: 'your-client-id',
 };
