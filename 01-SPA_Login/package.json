@@ -13,6 +13,6 @@
     "cloudentity-web-auth": "^0.8.3"
   },
   "devDependencies": {
-    "serve": "6.5.1"
+    "serve": "11.2.0"
   }
 }
