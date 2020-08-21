@@ -10,7 +10,7 @@
   "license": "SEE LICENSE IN EULA.txt",
   "dependencies": {
     "bootstrap": "4.0.0",
-    "cloudentity-web-auth": "^1.0.0-beta.0"
+    "cloudentity-js-auth": "^1.0.0-beta.0"
   },
   "devDependencies": {
     "serve": "6.5.1"
