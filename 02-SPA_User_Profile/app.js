@@ -18,38 +18,14 @@ window.addEventListener('load', function() {
 
   var emailSpan = document.getElementById('user_email');
 
-  function currentUrl () {
-    // get URL without hash to avoid storing OAuth response as redirectUri
-    return window.location.href.replace(/#.*$/, '');
-  }
-
-  function getExpirationTime (expiresIn) {
-    return JSON.stringify(expiresIn * 1000 + new Date().getTime());
-  }
-
-  function tokenExpired () {
-    var expiresAt = JSON.parse(localStorage.getItem('expires_at'));
-    return new Date().getTime() >= expiresAt;
-  }
-
-  function setAuthSession (auth) {
-    localStorage.setItem('access_token', auth.access_token);
-    localStorage.setItem('expires_at', getExpirationTime(auth.expires_in));
-  }
-
-  function clearAuthSession () {
-    localStorage.removeItem('access_token');
-    localStorage.removeItem('expires_at');
-  }
-
   var userProfile;
 
   function setProfile (profile) {
     userProfile = profile;
   }
 
-  function updateUI () {
-    if (tokenExpired()) {
+  function updateUI (auth) {
+    if (!auth) {
       auhtorizedNav.style.display = 'none';
       auhtorizedSection.style.display = 'none';
       unauthorizedNav.style.display = 'block';
@@ -61,7 +37,7 @@ window.addEventListener('load', function() {
       unauthorizedSection.style.display = 'none';
 
       nameSpan.innerText = userProfile.name;
-      emailSpan.innerText = userProfile.email;
+      emailSpan.innerText = userProfile.email || 'Looks like you haven\'t registered an email.';
     }
   }
 
@@ -71,8 +47,10 @@ window.addEventListener('load', function() {
   var cloudentity = new CloudentityWebAuth({
     domain: CLOUDENTITY_SETTINGS.domain,
     clientId: CLOUDENTITY_SETTINGS.clientId,
-    redirectUri: currentUrl(),
-    scopes: ['openid', 'profile', 'email']
+    tenantId: CLOUDENTITY_SETTINGS.tenantId,
+    authorizationServerId: CLOUDENTITY_SETTINGS.authorizationServerId,
+    redirectUri: CLOUDENTITY_SETTINGS.redirectUri,
+    scopes: CLOUDENTITY_SETTINGS.scopes
   });
 
   function login() {
@@ -80,23 +58,20 @@ window.addEventListener('load', function() {
   }
 
   function logout() {
-    clearAuthSession();
-    updateUI();
+    cloudentity.revokeAuth();
+    updateUI(false);
   }
 
   function getProfile() {
-    cloudentity.userInfo(localStorage.getItem('access_token')).then(
+    cloudentity.userInfo().then(
       function (profile) {
         setProfile(profile);
-        updateUI();
+        updateUI(true);
       },
       function (rejected) {
         if (rejected.error === 'Unauthorized') {
-          clearAuthSession();
           userProfile = null;
-          updateUI();
-        } else {
-          console.log(rejected);
+          updateUI(false);
         }
       });
   }
@@ -107,17 +82,20 @@ window.addEventListener('load', function() {
 
   cloudentity.getAuth().then(
     function (auth) {
-      setAuthSession(auth);
-      window.location.hash = '';
+      if (window.location.href.split('?').length > 1) {
+        window.location.href = window.location.href.replace(/\?.*$/, '');
+      }
       getProfile();
     },
     function (err) {
-      if (tokenExpired()) {
-        clearAuthSession();
-        updateUI();
-      } else {
-        getProfile();
+      updateUI(false);
+      if (window.location.href.split('?error').length > 1) {
+        var errorHintUrlParam = window.location.href.split('&error_hint=').length > 1 && window.location.href.split('&error_hint=')[1];
+        var errorHint = errorHintUrlParam && errorHintUrlParam.split('&')[0].replace(/\+/g, ' ');
+        window.alert('The authorization server returned the following error: ' + (errorHint || 'unknown error'));
+        window.location.href = window.location.href.replace(/\?.*$/, '');
       }
+      Promise.resolve();
     }
-  )
+  );
 });
