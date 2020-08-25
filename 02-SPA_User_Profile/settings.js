@@ -4,5 +4,5 @@ var CLOUDENTITY_SETTINGS = {
   authorizationServerId: 'your-authorization-server-id',
   clientId: 'your-client-id',
   redirectUri: 'http://localhost:8000',
-  scopes: ['profile', 'email', 'openid']
+  scopes: ['profile', 'email', 'openid', 'revoke_tokens']
 };
