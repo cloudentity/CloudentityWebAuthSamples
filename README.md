@@ -23,7 +23,7 @@ To play with each example project:
        authorizationServerId: 'your-authorization-server-id',
        clientId: 'your-client-id',
        redirectUri: 'http://localhost:8000',
-       scopes: ['profile', 'email', 'openid']
+       scopes: ['profile', 'email', 'openid', 'revoke_tokens'] // 'revoke_tokens' scope must be present for 'logout' action to revoke token! Without it, token will only be deleted from browser's local storage.
      };
     ```
 
