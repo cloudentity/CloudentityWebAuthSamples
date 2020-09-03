@@ -13,6 +13,6 @@
     "cloudentity-js-auth": "^1.0.0-beta.1"
   },
   "devDependencies": {
-    "serve": "6.5.1"
+    "serve": "11.3.2"
   }
 }
