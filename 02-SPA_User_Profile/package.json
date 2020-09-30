@@ -9,10 +9,13 @@
   "author": "Cloudentity",
   "license": "SEE LICENSE IN EULA.txt",
   "dependencies": {
-    "bootstrap": "4.0.0",
-    "cloudentity-js-auth": "^1.0.0-beta.1"
+    "bootstrap": "4.5.2",
+    "cloudentity-js-auth": "1.0.0-beta.2",
+    "fast-text-encoding": "1.0.3",
+    "promise-polyfill": "8.1.3",
+    "whatwg-fetch": "3.4.1"
   },
   "devDependencies": {
-    "serve": "11.2.0"
+    "serve": "11.3.2"
   }
 }
