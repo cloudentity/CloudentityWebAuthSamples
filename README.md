@@ -1,6 +1,8 @@
 ## Cloudentity Web Auth Samples
 
-Cloudentity Web Auth client for Javascript Single Page Apps usage examples.
+This repository contains examples for using the Cloudentity Web Auth library used to facilitate authentication with [Cloudentity](https://cloudentity.com "Cloudentity - Developer Self Service for Identity, API and Microservice Security").
+Setting up authentication for your application couldn’t been easier and only requires these simple steps below.
+Try it out using the [Cloudentity demo](https://www.cloudentity.com/demo "Try Cloudentity online demo"). After starting your trial, create your JS Single Page App in the [Cloudentity developer self service](https://demo.cloudentity.com/user/#/developer/applications "Go to the your developer self care portal at Cloudentity public demo") and follow the steps there to see how easy it is.
 
 ### Usage
 
