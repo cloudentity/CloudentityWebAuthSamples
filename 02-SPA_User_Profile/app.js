@@ -44,7 +44,7 @@ window.addEventListener('load', function() {
 
   // Cloudentity Web Auth usage
 
-  var cloudentity = new CloudentityWebAuth({
+  var cloudentity = new CloudentityAuth({
     domain: CLOUDENTITY_SETTINGS.domain,
     clientId: CLOUDENTITY_SETTINGS.clientId,
     tenantId: CLOUDENTITY_SETTINGS.tenantId,

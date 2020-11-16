@@ -16,7 +16,6 @@ window.addEventListener('load', function() {
 
   function updateUI (auth) {
     if (!auth) {
-      console.log('no auth');
       auhtorizedNav.style.display = 'none';
       auhtorizedSection.style.display = 'none';
       unauthorizedNav.style.display = 'block';
@@ -32,7 +31,7 @@ window.addEventListener('load', function() {
 
   // Cloudentity Web Auth usage
 
-  var cloudentity = new CloudentityWebAuth({
+  var cloudentity = new CloudentityAuth({
     domain: CLOUDENTITY_SETTINGS.domain,
     clientId: CLOUDENTITY_SETTINGS.clientId,
     tenantId: CLOUDENTITY_SETTINGS.tenantId,
