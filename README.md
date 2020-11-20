@@ -40,3 +40,8 @@ To play with each example project:
     ```
     http://localhost:8000 
     ```
+
+### For further info
+
+Check out the NPM page for the `@cloudentity/auth` library for info on all available features:
+https://www.npmjs.com/package/@cloudentity/auth
