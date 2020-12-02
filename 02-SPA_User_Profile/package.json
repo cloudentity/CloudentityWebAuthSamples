@@ -9,7 +9,7 @@
   "author": "Cloudentity",
   "license": "SEE LICENSE IN EULA.txt",
   "dependencies": {
-    "@cloudentity/auth": "1.0.0-beta.0",
+    "@cloudentity/auth": "1.0.0-beta.3",
     "bootstrap": "4.5.2",
     "fast-text-encoding": "1.0.3",
     "promise-polyfill": "8.1.3",
